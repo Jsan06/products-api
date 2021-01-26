@@ -87,7 +87,7 @@
       "shipping": true
     },
     {
-      "_id": "507f1f77bcf86cd799439019",
+      "id": "507f1f77bcf86cd799439019",
       "name": "entertainment center",
       "price": 59999,
       "image": "https://dl.airtable.com/.attachmentThumbnails/65708b701baa3a84883ad48301624b44/2de058af",
