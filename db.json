@@ -8,7 +8,6 @@
 {
    "products":
 [
-<<<<<<< HEAD
     {
       "id": "recoM2MyHJGHLVi5l",
       "name": "Elinchrom fx400 Strobe Lights",
@@ -85,7 +84,7 @@
       "id": "recoAJYUCuEKxcPSr",
       "name": "Canon EF 16-35 mm f/2.8L",
       "price": 90000,
-      "image": "https://www.dpreview.com/files/p/E~products/canon_16-35_2p8_usm_iii/shots/98313232ceb049ca93d17fc636c5ed22.png",
+      "image": "https://drive.google.com/file/d/1pa6I6u_T3co9Q5Rp6_OAWe7HlZLsiB5j/view?usp=sharing",
       "featured": true,
       "colors": [
         "#ffb900",
@@ -106,9 +105,8 @@
       "company": "zoom",
       "description": "Eiusmod non tempor reprehenderit irure. Aliquip amet dolore irure exercitation ea dolore cillum ut. Exercitation dolore tempor nisi minim aliquip id est nulla ad consectetur. Laborum cillum magna incididunt laboris.",
       "category": "audio"
-    }
-  ]
-=======
+    },
+
    {
      "id": "recoM2MyHJGHLVi5l",
      "name": "elinchrom fx400 strobe lights",
@@ -208,5 +206,4 @@
      "category": "audio"
    }
  ]
->>>>>>> dc98ded24250184591a19addadbedf22a1eababb
 }
