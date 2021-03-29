@@ -6,8 +6,9 @@
 // recoM2MyHJGHLVi5l
 // recNZ0koOqEmilmoz
 {
-    "products":
+   "products":
 [
+<<<<<<< HEAD
     {
       "id": "recoM2MyHJGHLVi5l",
       "name": "Elinchrom fx400 Strobe Lights",
@@ -107,4 +108,105 @@
       "category": "audio"
     }
   ]
+=======
+   {
+     "id": "recoM2MyHJGHLVi5l",
+     "name": "elinchrom fx400 strobe lights",
+     "price": 80000,
+     "image": "https://images-na.ssl-images-amazon.com/images/I/41eSDlK0OpL._SX355_.jpg",
+     "colors": [
+       "#0000ff",
+       "#000"
+     ],
+     "company": "elinchrom",
+     "description": "Eiusmod non tempor reprehenderit irure. Aliquip amet dolore irure exercitation ea dolore cillum ut. Exercitation dolore tempor nisi minim aliquip id est nulla ad consectetur. Laborum cillum magna incididunt laboris.",
+     "category": "photography lights",
+     "shipping": true
+   },
+   {
+     "id": "recNZ0koOqEmilmoz",
+     "stock": 3,
+     "name": "mini jib",
+     "price": 200000,
+     "image": "https://www.imastudent.com/images/thumbs/002/0022423_edelkrone-jibone-motion-control-jib-tripod-attachment_500.jpeg",
+     "featured": true,
+     "colors": [
+       "#000",
+       "#ff0000"
+     ],
+     "company": "edellcore",
+     "description": "Eiusmod non tempor reprehenderit irure. Aliquip amet dolore irure exercitation ea dolore cillum ut. Exercitation dolore tempor nisi minim aliquip id est nulla ad consectetur. Laborum cillum magna incididunt laboris.",
+     "category": "special gear",
+     "shipping": true
+   },
+   {
+     "id": "recQ0fMd8T0Vk211E",
+     "name": "manfrotto tripod",
+     "price": 50000,
+     "image": "https://n1.sdlcdn.com/imgs/a/1/y/Manfrotto-509HD-545GBK-Manfrotto-Tripod-SDL434059220-1-cca6e.jpg",
+     "colors": [
+       "#ff0000",
+       "#0000ff"
+     ],
+     "company": "manfrotto",
+     "description": "Eiusmod non tempor reprehenderit irure. Aliquip amet dolore irure exercitation ea dolore cillum ut. Exercitation dolore tempor nisi minim aliquip id est nulla ad consectetur. Laborum cillum magna incididunt laboris.",
+     "category": "accessories",
+     "shipping": true
+   },
+   {
+     "id": "recrfxv3EwpvJwvjq",
+     "name": "red dragon dSMC2",
+     "price": 1500000,
+     "image": "https://images.unsplash.com/photo-1553165351-4e2768c9571a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80",
+     "featured": true,
+     "colors": [
+       "#000",
+       "#00ff00"
+     ],
+     "company": "red",
+     "description": "Eiusmod non tempor reprehenderit irure. Aliquip amet dolore irure exercitation ea dolore cillum ut. Exercitation dolore tempor nisi minim aliquip id est nulla ad consectetur. Laborum cillum magna incididunt laboris.",
+     "category": "cameras",
+     "shipping": true
+   },
+   {
+     "id": "recoW8ecgjtKx2Sj2",
+     "name": "harison 4 bank light",
+     "price": 70000,
+     "image": "https://www.capturecrewstudio.com/files/products/PRGNawoQJNNstmr6.jpg",
+     "colors": [
+       "#ff0000",
+       "#ffb900"
+     ],
+     "company": "harrison",
+     "description": "Eiusmod non tempor reprehenderit irure. Aliquip amet dolore irure exercitation ea dolore cillum ut. Exercitation dolore tempor nisi minim aliquip id est nulla ad consectetur. Laborum cillum magna incididunt laboris.",
+     "category": "video lights"
+   },
+   {
+     "id": "recoAJYUCuEKxcPSr",
+     "name": "canon ef 16-35 mm f/2.8L",
+     "price": 90000,
+     "image": "https://www.dpreview.com/files/p/E~products/canon_16-35_2p8_usm_iii/shots/98313232ceb049ca93d17fc636c5ed22.png",
+     "featured": true,
+     "colors": [
+       "#ffb900",
+       "#ff0000"
+     ],
+     "company": "canon",
+     "description": "Eiusmod non tempor reprehenderit irure. Aliquip amet dolore irure exercitation ea dolore cillum ut. Exercitation dolore tempor nisi minim aliquip id est nulla ad consectetur. Laborum cillum magna incididunt laboris.",
+     "category": "lens"
+   },
+   {
+     "id": "recroK1VD8qVdMP5H",
+     "name": "zoom h1",
+     "price": 50000,
+     "image": "https://images-na.ssl-images-amazon.com/images/G/01/mi/zoomh1/Detailed-Overview-Shot.jpg",
+     "colors": [
+       "#ffb900"
+     ],
+     "company": "zoom",
+     "description": "Eiusmod non tempor reprehenderit irure. Aliquip amet dolore irure exercitation ea dolore cillum ut. Exercitation dolore tempor nisi minim aliquip id est nulla ad consectetur. Laborum cillum magna incididunt laboris.",
+     "category": "audio"
+   }
+ ]
+>>>>>>> dc98ded24250184591a19addadbedf22a1eababb
 }
